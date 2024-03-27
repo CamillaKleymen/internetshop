@@ -1,0 +1,93 @@
+/*CUSTOM CSS*/
+
+.navbar {
+	background-color: #AEBDE6;
+}
+
+.navbar-brand {
+	font-family: "Shadows Into Light", sans-serif, cursive;
+	font-size: 50px;
+}
+
+.lead {
+	font-family: "Shadows Into Light", sans-serif, cursive;
+	font-size: 30px;
+	color: #F68C01;
+}
+
+.list-group-item {
+	font-size: 18px;
+	font-family: "Shadows Into Light", sans-serif, cursive;
+}
+/*********TEMPLATE CSS FOR BOOTSTRAP SHOP TEMPLATE **************/
+/*!
+ * Start Bootstrap - Shop Homepage HTML Template (https://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+
+.cart-row{padding:15px 0}
+.cart-row:nth-child(even){background:#efefef}
+.product-name{font-size:16px;font-weight:600}
+.product-options{font-size:12px;margin-bottom:5px}
+.product-options span{color:#666;font-weight:400;text-transform:uppercase}
+.product-articlenr{color:#666;font-weight:400;text-transform:uppercase}
+.product-price small{color:#666;font-weight:300;font-size:20px;margin:0;padding:0;line-height:initial}
+.cart-table .cart-row input{width:30px;height:auto;padding:2px;border-radius:0;border-color:#000;float:left;font-size:14px;text-align:center}
+.cart-table .cart-row button.update{border:0;padding:7px 8px;background:#000;color:#fff;font-size:9px;float:left;margin-right:5px}
+.cart-table .cart-row button.delete{background-color:#FFB2B2;color:#000!important;padding:7px 13px;font-size:13px;border:0;border-radius:50px}
+.product-price-total{font-size:16px;font-weight:400;width:80%;float:left}
+.cart-actions{display:flex;justify-content:center;align-items:center}
+.cart-special-holder{background:#efefef}
+.cart-special{padding:1em 1em 0;display:block;margin-top:.5em;border-top:1px solid #dadada}
+.cart-special .cart-special-content:before{content:"\21b3";font-size:1.5em;margin-right:1em;color:#6f6f6f;font-family:helvetica,arial,sans-serif}
