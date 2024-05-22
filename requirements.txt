@@ -1,5 +1,4 @@
 Django
 pillow
 pyTelegramBotAPI
-telebot
-sqlparse
+
